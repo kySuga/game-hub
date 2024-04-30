@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # Interface
-services
+api-clients.ts
